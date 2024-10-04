@@ -1,1 +1,1 @@
-![Pixelated Animation](output_pixelated.gif)
+![Pixelated Animation](output_pixelated1.gif)
